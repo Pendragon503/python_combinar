@@ -1,2 +1,2 @@
 # python_combinar
- Convinar archivos PDF a 1 solo
+ Combinar archivos PDF a 1 solo
